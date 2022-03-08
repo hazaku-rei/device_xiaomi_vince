@@ -191,7 +191,7 @@ PRODUCT_PACKAGES += \
     camera.msm8953 \
     libmm-qcamera \
     libdng_sdk.vendor \
-    Snap \
+    GrapheneCamera \
     android.frameworks.displayservice@1.0.vendor
 
 # Consumerir
