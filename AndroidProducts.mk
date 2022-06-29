@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp_vince.mk
+    $(LOCAL_DIR)/xdroid_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    aicp_vince-user \
-    aicp_vince-userdebug \
-    aicp_vince-eng
+    xdroid_vince-user \
+    xdroid_vince-userdebug \
+    xdroid_vince-eng
